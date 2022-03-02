@@ -1,5 +1,7 @@
 package com.example.menu.Item;
 
+import org.springframework.data.annotation.Id;
+
 public class Item {
 
     private final Long id;
@@ -26,7 +28,7 @@ public class Item {
         this.image = image;
 
     }
-
+    @Id
     public Long getId() {
         return id;
     }
@@ -43,6 +45,9 @@ public class Item {
         return image;
     }
 
+    public String getDescription() {
+        return description;
+    }
     public Item updateWith(Item item) {
         return new Item(
             this.id,
