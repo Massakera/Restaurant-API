@@ -6,9 +6,9 @@ To store the data i've used In-memory repository with Spring Data KeyValue.
 
 Menu: ![image](https://user-images.githubusercontent.com/81731284/156771149-9e616e89-33aa-471c-84eb-5b38d9fc29c6.png)
 
-POST an Item: ![image](https://user-images.githubusercontent.com/81731284/156771329-b9feaa7a-5e18-4686-90bb-6928e40a560f.png)
+POST an Item: ![image](https://user-images.githubusercontent.com/81731284/156771605-f8a25a68-820e-4887-870d-333b077e0e0e.png)
 
-Delete an Item: ![image](https://user-images.githubusercontent.com/81731284/156771405-255e5c9e-92d3-43dc-8f1d-1b4012f57cb1.png)
+Delete an Item: ![image](https://user-images.githubusercontent.com/81731284/156771648-a5f6a72a-10d1-4b55-9199-daf585a07a49.png)
 
 Edit an Item: ![image](https://user-images.githubusercontent.com/81731284/156771474-2f528263-7c1e-4363-9c48-93178bba75ba.png)
 
